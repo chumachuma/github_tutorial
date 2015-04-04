@@ -1,0 +1,12 @@
+git config --global user.name "chumachuma"
+git config --global user.email "orionbl@hotmail.es"
+
+New repository 	-> Repository name
+				-> Description (optional)
+				-> public/private (private->pay)
+				-> Initilize with README
+				-> Create repository
+Commit via web
+
+Fork a repo
+	https://help.github.com/articles/fork-a-repo/
